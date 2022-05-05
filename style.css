@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: white;
+}
+.namesofobjectswhite {
+    color: white;
+}
+#object_name, #accuracy_percentage {
+
+    color: white;
+}
